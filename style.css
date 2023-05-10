@@ -1,0 +1,80 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #f7f4eb;
+}
+
+.title {
+  font-size: 20px;
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.projects {
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: monospace;
+  transition-duration: 0.4s;
+  background-color: white;
+  color: black;
+  border: 2px solid #6aa6d4;
+  cursor: pointer;
+}
+
+.projects:hover {
+  background-color: #6aa6d4; /* Green */
+  color: white;
+}
+
+.recs {
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: monospace;
+  transition-duration: 0.4s;
+  background-color: white;
+  color: black;
+  border: 2px solid #6aa6d4;
+  cursor: pointer;
+}
+
+.recs:hover {
+  background-color: #6aa6d4; /* Green */
+  color: white;
+}
+
+.cv {
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: monospace;
+  transition-duration: 0.4s;
+  background-color: white;
+  color: black;
+  border: 2px solid #6aa6d4;
+  cursor: pointer;
+}
+
+.cv:hover {
+  background-color: #6aa6d4; /* Green */
+  color: white;
+}
+
+.introduction {
+  font-family: monospace;
+
+}
+
+.me {  
+  float: left;    
+ margin: 0px 15px 0 0;
+}
+
+.body {
+  margin-left: 200px;
+  margin-top: 40px;
+  margin-right: 200px;
+}
