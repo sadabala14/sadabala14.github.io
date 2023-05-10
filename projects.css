@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #f7f4eb;
+}
+
+.title {
+  font-size: 20px;
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+}
+
+.p1 {
+  font-family: monospace;
+  margin-left: 200px;
+}
+
+.p2 {
+  font-family: monospace;
+  margin-left: 200px;
+}
+
+.p3 {
+  font-family: monospace;
+  margin-left: 200px;
+}
