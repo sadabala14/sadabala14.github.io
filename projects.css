@@ -11,17 +11,27 @@ html {
   text-align: center;
 }
 
+
 .p1 {
   font-family: monospace;
   margin-left: 200px;
+  margin-right: 200px;
 }
 
 .p2 {
   font-family: monospace;
   margin-left: 200px;
+  margin-right: 200px;
 }
 
+.dawg{
+    font-family: monospace;
+  text-decoration: underline;
+  color: #6aa6d4;
+  cursor: pointer;
+}
 .p3 {
   font-family: monospace;
   margin-left: 200px;
+  margin-right: 200px;
 }
