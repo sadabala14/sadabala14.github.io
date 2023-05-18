@@ -82,4 +82,10 @@ html {
   margin-left: 200px;
   margin-top: 40px;
   margin-right: 200px;
+  display: flex;
+  margin-bottom: 200px;
+}
+
+.bottom {
+  text-align: center;
 }
