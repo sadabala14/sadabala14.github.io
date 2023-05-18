@@ -12,6 +12,7 @@ html {
 
 
 .p1 {
+  border-radius: 10px;
   display: inline-block;
   height: 125px; 
   background: #6aa6d4; 
@@ -36,6 +37,7 @@ html {
   cursor: pointer;
 }
 .p3 {
+  border-radius: 10px;
   display: inline-block;
   height: 125px; 
   background: #6aa6d4; 
