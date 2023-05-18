@@ -83,6 +83,7 @@ html {
   margin-top: 40px;
   margin-right: 200px;
   display: inline-flex;
+  justify-content: space-evenly;
   margin-bottom: 100px;
 }
 
