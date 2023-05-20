@@ -82,7 +82,8 @@ html {
   margin-left: 200px;
   margin-top: 40px;
   margin-right: 200px;
-  margin-bottom: 100px;
+  display: flex;
+  margin-bottom: 200px;
 }
 
 .bottom {
