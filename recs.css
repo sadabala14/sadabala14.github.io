@@ -28,3 +28,10 @@ html {
   color: #6aa6d4;
   cursor: pointer;
 }
+
+.food {
+  font-family: monospace;
+  text-decoration: underline;
+  color: #6aa6d4;
+  cursor: pointer;
+}
