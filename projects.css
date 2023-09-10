@@ -34,9 +34,11 @@ html {
 
 .dawg{
     font-family: monospace;
-  text-decoration: underline;
-  cursor: pointer;
+    text-decoration: underline;
+    color: #6aa6d4;
+    cursor: pointer;
 }
+
 .p3 {
   border-radius: 10px;
   display: inline-block;
